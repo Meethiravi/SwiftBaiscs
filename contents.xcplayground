@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='macos' buildActiveScheme='true' executeOnSourceChanges='true' importAppTypes='true'>
+    <pages>
+        <page name='Protocol '/>
+        <page name='Optionals_Enum_Class'/>
+        <page name='Closure _and_func_as_param'/>
+        <page name='Extensions'/>
+        <page name='InstanceProperty_VS_StaticProperty'/>
+        <page name='Typecasting'/>
+        <page name='UserDefaults'/>
+        <page name='Singleton'/>
+        <page name='ComputedProperty'/>
+    </pages>
+</playground>
